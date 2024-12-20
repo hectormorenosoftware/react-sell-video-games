@@ -8,3 +8,5 @@ npm start
 
 To build run
 npm run build
+
+You can see this website through the url below: https://beamish-elf-4fbb73.netlify.app/#/
